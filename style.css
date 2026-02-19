@@ -4,12 +4,12 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            background: linear-gradient(to right, #4facfe, #00f2fe);
+            background: linear-gradient(to right, #09131b, #060d0e);
             font-family: Arial, sans-serif;
         }
 
         .converter {
-            background: white;
+            background: rgb(155, 117, 82);
             padding: 30px;
             border-radius: 10px;
             box-shadow: 0 0 15px rgba(0,0,0,0.2);
@@ -33,7 +33,7 @@
         button {
             padding: 10px 20px;
             border: none;
-            background: #4facfe;
+            background: #18c45a;
             color: white;
             font-size: 16px;
             cursor: pointer;
